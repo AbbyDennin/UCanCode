@@ -1,0 +1,24 @@
+<html>
+	<head><title>UCanCode-Home</title>
+	<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+	</head>
+	
+	<body style="background-color:black;">
+		
+		<div class="container">
+			
+			<h1 class="text-center"><font color="#4169E1"><strong>U Can Code</strong></font></h1>
+				
+				<ul class="nav nav-pills nav-justified">
+					<li class="active"><a href="UCanCode-Home.html">Home</a></li>
+					<li class="active"><a href="UCanCode-Info.html">Information</a></li>
+					<li class="active"><a href="#">Challenges</a></li>
+					<li class="active"><a href="UCanCode-Videos">Videos</a></li>
+				</ul>
+
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/DS4wLUfImUQ" frameborder="0" allowfullscreen></iframe>
+
+		</div>
+
+	</body>
+</html>
